@@ -7,7 +7,7 @@ https://www.sciencedirect.com/science/article/pii/S2001037022001118
 ## SRIQ Algorithm Framework
 ![SRIQ method figure_v4](https://user-images.githubusercontent.com/25789892/150555679-5d91183e-f763-4266-9461-b2f36b17b6f9.png)
 
-## SRIQ Stabilty Test Framework
+## SRIQ Stability Test Framework
 ![Step7and8 schema](https://user-images.githubusercontent.com/25789892/160347182-efee2719-d87b-4749-a33f-0467286a697a.jpg)
 
 
